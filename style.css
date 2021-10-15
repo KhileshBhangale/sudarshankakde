@@ -179,7 +179,7 @@ iframe{
 ::-webkit-scrollbar{
     width: 1vh;
     background-color:#5dc0de;
-
+    display:none;
 }
 ::-webkit-scrollbar-thumb{
     background-color: whitesmoke;
